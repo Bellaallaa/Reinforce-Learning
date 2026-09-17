@@ -4,6 +4,8 @@
 
 ## 阅读
 
+在线阅读：https://bellaallaa.github.io/Reinforce-Learning/
+
 直接用浏览器打开 `index.html`，无需安装依赖或联网。包含题目、选项、答案、解析、拓展、答案速查、ε-greedy 概率演示及折扣回报演示。
 
 “自测模式”隐藏答案汇总并折叠解析；“打印 / PDF”自动展开解析。
