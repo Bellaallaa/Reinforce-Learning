@@ -1,6 +1,6 @@
 # Reinforce Learning（强化学习）
 
-前两次强化学习作业的中文 HTML 学习资料，共 10 题。
+前三次强化学习作业的中文 HTML 学习资料，共 15 题。
 
 ## 阅读
 
@@ -13,6 +13,7 @@
 ## 内容维护
 
 - `build.py`：题目内容及 HTML 生成器，运行 `python build.py` 更新页面。
+- `homework3.py`：第三次作业的题目、解析、拓展与复习卡。
 - `index.html`：可直接阅读的静态页面。
 - `styles.css`：响应式与打印样式。
 - `app.js`：自测切换与交互实验。
@@ -22,3 +23,5 @@
 参考：Sutton & Barto, *Reinforcement Learning: An Introduction*, 2nd edition，第 1–4 章。页面末尾附参考链接。
 
 仓库名使用 `Reinforce-Learning`，中文显示名称为“强化学习”。
+
+第三次作业：动态规划与策略迭代（5 题，含 4 道多选题）。答案为 AB、AB、A、BD、CD。区分外层迭代轮数与总计算时间，并补充异步 DP 的收敛覆盖条件。
